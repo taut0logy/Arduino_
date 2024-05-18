@@ -1,0 +1,21 @@
+#line 1 "C:\\Users\\LENOVO\\OneDrive\\Documents\\C\\_VScode\\MoyeMoye\\app\\build\\intermediates\\apk\\debug\\output-metadata.json"
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.example.moyemoye",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 1,
+      "versionName": "1.0",
+      "outputFile": "app-debug.apk"
+    }
+  ],
+  "elementType": "File"
+}

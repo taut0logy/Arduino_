@@ -1,0 +1,21 @@
+#line 1 "C:\\Users\\LENOVO\\OneDrive\\Documents\\C\\_VScode\\MoyeMoye\\app\\build\\intermediates\\merged_res_blame_folder\\debug\\out\\multi-v2\\values-watch-v20.json"
+{
+    "logs": [
+        {
+            "outputFile": "com.example.moyemoye.app-mergeDebugResources-34:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\ff92050ab482929c4d0f044d21af76fb\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

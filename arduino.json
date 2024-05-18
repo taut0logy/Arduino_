@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "avrispmkii",
+    "port": "COM13",
+    "sketch": "Assignment_01\\assignment_01.ino",
+    "prebuild": "echo Prebuild"
+}

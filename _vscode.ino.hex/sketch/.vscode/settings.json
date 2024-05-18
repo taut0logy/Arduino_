@@ -1,0 +1,18 @@
+#line 1 "C:\\Users\\LENOVO\\OneDrive\\Documents\\C\\_VScode\\.vscode\\settings.json"
+{
+    "files.associations": {
+        "array": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp",
+        "valarray": "cpp",
+        "iostream": "cpp",
+        "cmath": "cpp"
+    }
+}

@@ -1,0 +1,8 @@
+#line 1 "C:\\Users\\LENOVO\\OneDrive\\Documents\\C\\_VScode\\.vscode\\arduino.json"
+{
+    "board": "arduino:avr:uno",
+    "sketch": "001.ino",
+    "programmer": "avrispmkii",
+    "port": "COM13",
+    "output": "C:\\Users\\LENOVO\\OneDrive\\Documents\\C\\_VScode\\Arduino\\_vscode.ino.hex"
+}

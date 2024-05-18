@@ -1,0 +1,60 @@
+#line 1 "C:\\Users\\LENOVO\\OneDrive\\Documents\\C\\_VScode\\.vscode\\c_cpp_properties.json"
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\MinGW\\bin\\gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-x86"
+        },
+        {
+            "name": "Arduino",
+            "includePath": 
+            [
+                "C:\\Users\\LENOVO\\OneDrive\\Documents\\Arduino\\libraries\\107-Arduino-Servo-RP2040\\src",
+                "C:\\Users\\LENOVO\\OneDrive\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Arduino_Low_Power\\src",
+                "C:\\Users\\LENOVO\\OneDrive\\Documents\\Arduino\\libraries\\Arduino_LSM6DS3\\src",
+                "C:\\Users\\LENOVO\\OneDrive\\Documents\\Arduino\\libraries\\Audio\\src",
+                "C:\\Users\\LENOVO\\OneDrive\\Documents\\Arduino\\libraries\\AudioFrequencyMeter\\src",
+                "C:\\Users\\LENOVO\\OneDrive\\Documents\\Arduino\\libraries\\AudioZero\\src",
+                "C:\\Users\\LENOVO\\OneDrive\\Documents\\Arduino\\libraries\\EduIntro\\src",
+                "C:\\Users\\LENOVO\\OneDrive\\Documents\\Arduino\\libraries\\Robot_IR_Remote\\src",
+                "C:\\Users\\LENOVO\\OneDrive\\Documents\\Arduino\\libraries\\RTCZero\\src",
+                "C:\\Users\\LENOVO\\OneDrive\\Documents\\Arduino\\libraries\\SD\\src",
+                "C:\\Users\\LENOVO\\OneDrive\\Documents\\Arduino\\libraries\\Servo\\src",
+                "C:\\Users\\LENOVO\\OneDrive\\Documents\\Arduino\\libraries\\Stepper\\src",
+                "C:\\Users\\LENOVO\\OneDrive\\Documents\\Arduino\\libraries\\TFT\\src",
+                "C:\\Users\\LENOVO\\OneDrive\\Documents\\Arduino\\libraries\\USBHost\\src",
+                "C:\\Users\\LENOVO\\OneDrive\\Documents\\Arduino\\libraries\\WiFi101OTA\\src",
+                "C:\\Users\\LENOVO\\OneDrive\\Documents\\Arduino\\libraries\\WiFiNINA\\src"
+            ]
+        },
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": 
+            [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+
+    ],
+    "version": 4
+}

@@ -1,0 +1,30 @@
+#line 1 "C:\\Users\\LENOVO\\OneDrive\\Documents\\C\\_VScode\\MoyeMoye\\app\\google-services.json"
+{
+  "project_info": {
+    "project_number": "842432275266",
+    "project_id": "moyemoye-b0e18",
+    "storage_bucket": "moyemoye-b0e18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842432275266:android:f31f9d7d8441f6c345dedb",
+        "android_client_info": {
+          "package_name": "com.example.moyemoye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcqxdnOTyEGQsXuoIGDsg6OMdU5ZHWHII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
